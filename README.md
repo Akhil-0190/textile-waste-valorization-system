@@ -1,32 +1,56 @@
-# **Textile Waste to Crypto Rewards** 
+# Textile Waste Valorization System
 
-Incentivizing responsible textile disposal with crypto rewards.
-This project offers sampel of a user-friendly system that tackles textile waste by rewarding users with cryptocurrency for properly disposing of unwanted textiles. By diverting textiles from landfills, the project promotes a sustainable circular economy.
-
----
-
-<ins> **Features:** </ins>
-
-User-friendly platform to manage textile waste disposal.
-
-Secure system for earning and managing crypto rewards.
-
-Integration with designated textile drop-off locations.
-
-Transparent process for tracking collected textiles.
+A sample web application that demonstrates a simple incentive platform encouraging responsible textile waste disposal through cryptocurrency-based reward calculations.
 
 ---
 
-<ins> **Technology Stack:** </ins>
+## Overview
 
-Backend: JavaScript
-
-Frontend: HTML, CSS
+Textile waste contributes significantly to environmental pollution, while many recyclable materials are discarded instead of being reused. This project demonstrates a simple web application that calculates incentive rewards for textile disposal, illustrating how digital reward systems could encourage sustainable recycling practices.
 
 ---
 
-Sample outputs:
+## Key Features
 
-![Image1](https://github.com/Akhil-0190/Textile-Ledger-textile-waste-valorization-system/blob/main/sample_execution.jpg)
+- Textile disposal reward calculator
+- Cryptocurrency reward estimation
+- Simple web interface
+- Input validation
+- Sustainability-focused concept demonstration
 
-![Image2](https://github.com/Akhil-0190/Textile-Ledger-textile-waste-valorization-system/blob/main/sample_image.jpg)
+---
+
+## Technologies Used
+
+### Programming
+
+- JavaScript
+
+### Frontend
+
+- HTML
+- CSS
+
+---
+
+## Sample Output
+
+### Reward Calculation
+
+![](https://github.com/Akhil-0190/Textile-Ledger-textile-waste-valorization-system/blob/main/sample_execution.jpg)
+
+### User Interface
+
+![](https://github.com/Akhil-0190/Textile-Ledger-textile-waste-valorization-system/blob/main/sample_image.jpg)
+
+---
+
+## Repository Scope
+
+This repository contains a frontend prototype demonstrating a concept for incentivizing responsible textile disposal through digital reward calculations. The project focuses on user interaction and interface design rather than production blockchain implementation.
+
+---
+
+## Acknowledgements
+
+Developed as an academic project exploring sustainability-focused web application development.
